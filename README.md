@@ -2,7 +2,7 @@
 A tool for creating mock RVs induced by exoplanets
 
 <p align="center">
-<img src="https://github.com/olgabalsa/mocca/assets/47603865/6acc7d7b-453a-4024-970d-59e9d2e74f6d" width="600" />
+<img src="https://github.com/olgabalsa/mocca/assets/47603865/6acc7d7b-453a-4024-970d-59e9d2e74f6d" width="450" />
 
 ## Warning
 This documentation is under construction. We are working on provide more information on the code and its usage. If you have any question or suggestion, please contact me: obalsalobre@cab.inta-csic.es.
