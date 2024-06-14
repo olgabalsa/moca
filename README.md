@@ -16,10 +16,11 @@ Just download this folder or clone it to your computer.
 
 The only mandatory input you have to provide is the number of planets! Mocca can simulate all the parameters you do not want to fix.
 
-The way of calling it from the terminal is the following:
+Call it from the terminal as:
 ```python
 python run_mocca.py -st M2 -np 2 -p 4.5 12.3 -mp 3.5 7 -star MyStar -nrv 10 -erv 3.5 -cad 12 -dir 'path/outputs/'
 ```
+[TO BE DONE, file as input].
 You can also give a file with previous RVs and Mocca can simulate new measurement with same uncertainties and noise. Additionally, if you do not provide addicional parameters, Mocca can infer the planetary orbital parameters from that previous dataset. Once again, you only have to worry about providing the number of planets. The format of your file must be '.ascii', '.txt', or '.csv', with the columns 'BJD', 'RV', 'ERV', and 'INSTRUMENT' separated by commas (,). The units of the RVs and their uncertainties must be m/s.
 
 ```python
