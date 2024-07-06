@@ -18,8 +18,7 @@ The only mandatory input you have to provide is the number of planets! Mocha can
 
 Call it from the terminal as:
 ```python
-python run_mocha.py -st M2 -np 2 -p 4.5 12.3 -mp 3.5 7 -star MyStar -nrv 10 -erv 3.5 -cad 12 -dir 'path/outputs/'
+python run_mocha.py -st M2 -np 2 -p 4.5 12.3 -mp 3.5 7.1 -star MyStar -nrv 10 -erv 3.5 -cad 12 -dir 'path/outputs/'
 ```
 
-You can customize the setting by giving additional inputs. Do ```python
-python run_mocha.py --help``` to see all the options.
+You can customizes the setting by giving additional inputs. Do ```python run_mocha.py --help``` to see all the options.
