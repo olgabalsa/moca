@@ -1,5 +1,5 @@
 # mocha
-A tool for creating mock RVs induced by exoplanets
+A tool for computing mock RVs induced by exoplanets
 
 <p align="center">
 <img src="https://github.com/olgabalsa/mocca/assets/47603865/9920b787-6f1f-420d-be49-1f8b8713aa0d" width="450" />
