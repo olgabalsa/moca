@@ -23,3 +23,8 @@ def get_ms(st):
         sys.exit()
 
     return dic_ms[st] # Msun
+
+
+def get_st(ms):
+    st = min(dic_ms, key = lambda sti: abs(dic_ms[sti] - ms))
+    return st
